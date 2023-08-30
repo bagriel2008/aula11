@@ -1,0 +1,86 @@
+// function bla(){
+//     console.log("ola mundo")
+// }
+
+// bla()
+
+
+//exercicio1  
+// function fala(nome){
+//     console.log(nome);
+// }
+
+// fala("Gabriel");
+// =========================================================
+
+// const a = 1
+
+// function imprimeVariavel(){
+//     const b = 2
+//     console.log("variavel a", a)
+//     console.log("variavel b", b)
+// }
+
+// imprimeVariavel()
+
+// console.log("variavel a", a)
+// console.log("variavel b", b)
+
+// exercicio2
+
+// function calcularArea(altura, largura){
+//     const area = altura * largura
+//     return area
+// }
+
+// const areaCalculada = calcularArea(5, 8)
+
+// console.log("calcularArea " + areaCalculada)
+// console.log("calcularArea " + calcularArea(5,8))
+
+
+
+// exercicio 3
+// function numeros(numero1, numero2){
+//     const calculo = numero1 + numero2;
+//     return calculo;
+// }
+
+// const retorno = numeros(2, 4) 
+
+// console.log(retorno)
+
+// exercicio 4
+
+// function numeros(a){
+//     const elementos = [(a[0] /2), (a[a.length-1] /2)]
+//     return elementos
+// }
+
+
+// const b = [1, 2, 3]
+// const resultado = numeros(b)
+// console.log(resultado)
+
+// ====================================================================================ourtras funcoes 
+// exercicio 2 refeito 
+// let matematica = function(altura, largura){
+//     const area = altura * largura
+//     return area
+// }
+
+// const areaCalculada = matematica(5, 8)
+
+// console.log("calcularArea " + areaCalculada)
+// console.log("calcularArea " + matematica(5,8))
+
+// exercicio 3 refeito
+
+// let matematica = (numero1, numero2) => {
+//     const calculo = numero1 + numero2;
+//     return calculo;
+// }
+
+// const retorno = matematica (2, 4) 
+
+// console.log(retorno)
